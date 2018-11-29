@@ -12,7 +12,7 @@ namespace IdentityScaffoldingII.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "Esta es nuestra pagina de contacto.";
         }
     }
 }
