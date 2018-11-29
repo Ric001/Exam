@@ -14,7 +14,7 @@ namespace IdentityScaffoldingII.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "Somos una nacion de hombres y mujeres FUERTES";
         }
     }
 }
